@@ -8,3 +8,11 @@ Werkzeug==2.3.7
 python-dotenv==1.0.1
 gunicorn==21.2.0
 pytest==8.1.1
+
+
+# Database Driver (optional if using SQLite)
+# psycopg2-binary==2.9.9 (if using postgres)
+
+# Testing tools
+coverage==7.3.2
+
